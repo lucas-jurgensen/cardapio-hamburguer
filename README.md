@@ -1,6 +1,6 @@
 # PAGINA PRINCIPAL DE UM FAST FOOD
 
-Criação de uma página principal para uma rede de fast food focada m hamburgur.
+Criação de uma página principal para uma rede de fast food focada em hamburgueres.
 
 Projeto do curso B7WEB, criado pelo Bonieky Lacerda - https://github.com/bonieky
 
